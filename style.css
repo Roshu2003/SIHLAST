@@ -696,7 +696,7 @@ footer {
 
 @media (max-height:800px) {
     footer {
-        position: static;
+        position: inherit;
     }
     header {
         padding-top: 40px;
